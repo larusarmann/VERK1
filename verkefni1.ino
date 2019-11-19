@@ -1,3 +1,5 @@
+int buttonState = 0;
+
 void setup()
 {
   pinMode(2, INPUT);
